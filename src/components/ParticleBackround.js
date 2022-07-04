@@ -26,7 +26,7 @@ export default function ParticleBackround() {
                 area: 1000,
               },
               limit: 0,
-              value: 400,
+              value: 800,
             },
             opacity: {
               animation: {
